@@ -3,10 +3,10 @@
 ## 1. Cover Page
 **Project:** Smart Library Management System  
 **Course:** Java  
-**Student:** ____________________  
-**Registration Number:** ____________________  
-**University:** ____________________  
-**Academic Year:** 2026  
+**Student:** Shaleen Dutta  
+**Registration Number:** 25BAI10034  
+**University:** VIT BHOPAL UNIVERSITY  
+**Academic Year:** Fall Semester 2026-27
 
 ## 2. Introduction
 The Smart Library Management System is a console-based Java application developed to demonstrate object-oriented programming in a practical scenario. It organizes library books, users, issue/return transactions, searching, and fine calculation.
